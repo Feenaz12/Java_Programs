@@ -7,3 +7,5 @@ InterfaceExample2: Write a Java program to create an interface Searchable with a
 TestCustomException2 : create a custom class CheckNumber and in another class create a method that takes an integer as a parameter and throws an exception if the number is odd.
 
 GenericClassBox: create a generic class Box with a method to accept Box properties (like side or length and breadth) . create generic object to access the properties from the Box class.
+
+ArrayListUserExample2: create a class Product with product id ,name , price as details and create another class Customer class with custid,password and mobile number as details.
