@@ -9,3 +9,5 @@ TestCustomException2 : create a custom class CheckNumber and in another class cr
 GenericClassBox: create a generic class Box with a method to accept Box properties (like side or length and breadth) . create generic object to access the properties from the Box class.
 
 ArrayListUserExample2: create a class Product with product id ,name , price as details and create another class Customer class with custid,password and mobile number as details.
+
+BookStore: create a class book to store the book details(id,name,authorname,publisher and quantity as the properties. create a TreeMap or HashMap to stroe the book object details.
