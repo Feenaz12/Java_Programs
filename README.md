@@ -11,3 +11,7 @@ GenericClassBox: create a generic class Box with a method to accept Box properti
 ArrayListUserExample2: create a class Product with product id ,name , price as details and create another class Customer class with custid,password and mobile number as details.
 
 BookStore: create a class book to store the book details(id,name,authorname,publisher and quantity as the properties. create a TreeMap or HashMap to stroe the book object details.
+
+FunctionalInterface: create a functional interface Test1 with a method fact and implement the method with lambda expression to find the factorial of a given number. create another functional interface with a method large and implement the method with lambda expression to find the largest of two numbers.
+
+FilterMethodExample: program to implement a lambda expression to filter out even and odd numbers from a list of integers.
